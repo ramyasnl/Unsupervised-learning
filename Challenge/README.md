@@ -15,12 +15,14 @@ Step 4: Visualizing Cryptocurrencies Results</br>
 ## RESULTS</br>
 ## Step 1: Preprocessing the Data for PCA (Principle Component Analysis)</br>
 The data is preprocessed by cleaning, encoding and scaling the output of scaled data is given below </br>
-![]()ADD tHE IMAGE OF SCALED X 
+![](https://github.com/ramyasnl/Unsupervised-learning/blob/master/Challenge/images/step1.png) 
 ## Step 2: Reducing Data Dimensions Using PCA</br>
 We use Principle Component Analysis to reduce the data dimension and the output is given below </br>
-ADD THE IMAGE OF PCA3,clustered
+![](https://github.com/ramyasnl/Unsupervised-learning/blob/master/Challenge/images/pca3.png)</br>
 ## Step 3: Clustering Cryptocurrencies Using K-means</br>
-ADD ELBO CURVE 
-clustered df 
+![](https://github.com/ramyasnl/Unsupervised-learning/blob/master/Challenge/images/Elbow.png)</br> 
+![](https://github.com/ramyasnl/Unsupervised-learning/blob/master/Challenge/images/clustered.png)</br>
 ## Step 4: Visualizing Cryptocurrencies Results</br>
-addthellastgraph
+![](https://github.com/ramyasnl/Unsupervised-learning/blob/master/Challenge/images/scaledminmaxDF.png)</br>
+![](https://github.com/ramyasnl/Unsupervised-learning/blob/master/Challenge/images/3Dplot.png)</br>
+![](https://github.com/ramyasnl/Unsupervised-learning/blob/master/Challenge/images/scatter.png)</br>
