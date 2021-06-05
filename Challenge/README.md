@@ -1,0 +1,14 @@
+# Unsupervised-learning Module 18 </br>
+## Overview of the project </br>
+Martha is a senior manager for the Advisory Services Team at Accountability Accounting, one of your most important clients. </br>
+Accountability Accounting, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. </br>
+The company, however, is lost in the vast universe of cryptocurrencies. So, they’ve asked us to create a report that includes what cryptocurrencies are</br>
+on the trading market and how they could be grouped to create a classification system for this new investment.</br>
+The data Martha will be working with is not ideal, so it will need to be processed to fit the machine learning models. </br>
+Since there is no known output for what Martha is looking for, she has decided to use unsupervised learning.</br>
+To group the cryptocurrencies, Martha decided on a clustering algorithm. She’ll use data visualizations to share her findings with the board.</br>
+Steps to be completed :</br>
+Step 1: Preprocessing the Data for PCA (Principle Component Analysis) </br>
+Step 2: Reducing Data Dimensions Using PCA</br>
+Step 3: Clustering Cryptocurrencies Using K-means</br>
+Step 4: Visualizing Cryptocurrencies Results</br>
