@@ -12,3 +12,15 @@ Step 1: Preprocessing the Data for PCA (Principle Component Analysis) </br>
 Step 2: Reducing Data Dimensions Using PCA</br>
 Step 3: Clustering Cryptocurrencies Using K-means</br>
 Step 4: Visualizing Cryptocurrencies Results</br>
+## RESULTS</br>
+## Step 1: Preprocessing the Data for PCA (Principle Component Analysis)</br>
+The data is preprocessed by cleaning, encoding and scaling the output of scaled data is given below </br>
+![]()ADD tHE IMAGE OF SCALED X 
+## Step 2: Reducing Data Dimensions Using PCA</br>
+We use Principle Component Analysis to reduce the data dimension and the output is given below </br>
+ADD THE IMAGE OF PCA3,clustered
+## Step 3: Clustering Cryptocurrencies Using K-means</br>
+ADD ELBO CURVE 
+clustered df 
+## Step 4: Visualizing Cryptocurrencies Results</br>
+addthellastgraph
